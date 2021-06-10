@@ -116,7 +116,6 @@ sections:
     padding_top: none
   - type: grid_section
     title: Plus de résultats que toute autre cabinet de la région
-    subtitle: Grid Section Example
     align: center
     grid_items:
       - image_alt: Contentful logo
