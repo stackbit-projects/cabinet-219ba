@@ -18,7 +18,7 @@ sections:
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
   - content: |+
-      ## Lorem ipsum
+      ## Nos domaines d'expertise
 
     actions: []
     image_alt: lorem-ipsum
