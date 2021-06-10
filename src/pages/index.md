@@ -162,6 +162,7 @@ sections:
     grid_cols: four
     align: center
     background_color: none
+    padding_top: small
   - type: grid_section
     align: center
     grid_items:
