@@ -19,7 +19,7 @@ sections:
     background_image: images/ab-banner.jpg
   - type: grid_section
     grid_items:
-      - title: Asile et Immigration
+      - title: Droit des étrangers
         title_align: left
         content: >
           Naturalisation, rétention, obligation de quitter le territoire, refus
