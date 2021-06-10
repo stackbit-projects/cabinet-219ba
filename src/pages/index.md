@@ -26,8 +26,8 @@ sections:
       - title: Asile et Immigration
         title_align: left
         content: >
-          Naturalisation, Rétention, Obligation de quitter le territoire, refus
-          de séjour, DCEM, demande de titre de séjour, visa...
+          Naturalisation, rétention, obligation de quitter le territoire, refus
+          de séjour, DCEM, demande de titre de séjour, visa (...)
         content_align: left
         actions:
           - label: Learn More
