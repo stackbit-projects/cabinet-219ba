@@ -266,7 +266,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Christophe Ruffel
+      - title: Christophe \A Ruffel
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/gustav-purpleson.jpg
