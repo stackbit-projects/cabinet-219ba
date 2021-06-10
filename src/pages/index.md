@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Choisir le bon cabinet d'avocats est important.
+    title: Choisir le bon cabinet d'avocats compte.
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
