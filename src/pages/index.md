@@ -39,10 +39,7 @@ sections:
         image_has_padding: true
       - title: Droit pénal du travail
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Licenciement abusif, accident de\_travail, prud’homme, \_rappel de salaire, litige avec employeur, travail dissimulé, contrat de travail, retraite (...)\n"
         content_align: left
         actions:
           - label: Learn More
