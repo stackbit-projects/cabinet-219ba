@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Choisir le bon cabinet d'avocats est important.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
     actions:
       - label: Dites-nous ce qui s'est passé
         url: /pricing
