@@ -25,10 +25,9 @@ sections:
     grid_items:
       - title: Asile et Immigration
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Naturalisation, Rétention, Obligation de quitter le territoire, refus
+          de séjour, DCEM, demande de titre de séjour, visa...
         content_align: left
         actions:
           - label: Learn More
