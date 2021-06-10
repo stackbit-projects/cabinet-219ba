@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Dites-nous ce qui s'est passé
         url: /pricing
-        style: link
+        style: primary
       - label: Learn More
         url: /features
         style: secondary
