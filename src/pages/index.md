@@ -19,6 +19,8 @@ sections:
     background_image: images/ab-banner.jpg
   - content: |+
       ## Nos domaines d'expertise
+      
+      ***
 
     actions: []
     image_alt: lorem-ipsum
