@@ -114,7 +114,7 @@ sections:
     enable_cards: false
     align: center
     background_color: primary
-    padding_top: small
+    padding_top: none
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
