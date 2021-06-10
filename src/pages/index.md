@@ -17,17 +17,9 @@ sections:
     image: images/logo-6.svg
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
-  - content: >-
+  - content: |+
       ## Lorem ipsum
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
