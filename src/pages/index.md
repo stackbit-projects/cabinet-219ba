@@ -12,7 +12,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/about-2.jpg
-    background_image_position: center center
+    background_image_position: right top
     background_image_repeat: no-repeat
     background_image_size: contain
   - type: grid_section
