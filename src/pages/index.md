@@ -55,10 +55,9 @@ sections:
         image_has_padding: true
       - title: Droit des personnes
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Divorce, opposition à mariage, contentieux TCI & CNI, TASS, problèmes
+          locatifs (TI), droit de la famille, droit des contrats, DALO (...)
         content_align: left
         actions:
           - label: Learn More
