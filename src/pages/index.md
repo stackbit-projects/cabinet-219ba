@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Choisir le bon cabinet d'avocats est important.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
