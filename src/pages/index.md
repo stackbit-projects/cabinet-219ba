@@ -115,7 +115,7 @@ sections:
     background_color: primary
     padding_top: none
   - content: |
-      ###### NOTRE EQUIPE
+      ###### NOTRE ÉQUIPE
 
       ***
     actions: []
