@@ -5,7 +5,7 @@ sections:
     actions: []
     image_alt: Hero section placeholder image
     media_position: right
-    media_width: fourty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
