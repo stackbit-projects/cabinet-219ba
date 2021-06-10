@@ -14,7 +14,7 @@ sections:
     background_image_position: right center
     background_image_repeat: no-repeat
     background_image_size: contain
-    image: images/logo-6.svg
+    image: images/classic/feature-3.png
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
   - content: |+
