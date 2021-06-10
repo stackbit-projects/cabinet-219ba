@@ -115,6 +115,37 @@ sections:
     background_color: primary
     padding_top: none
   - type: grid_section
+    title: Team Section
+    subtitle: Grid Section Example
+    actions:
+      - label: Join the team
+        url: /style-guide
+        style: primary
+    grid_items:
+      - title: Christophe Ruffel
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: images/gustav-purpleson.jpg
+        image_position: top
+      - title: Elsa Barbaroux
+        subtitle: Software Engineer
+        title_align: center
+        image: images/dianne-ameter.jpg
+        image_position: top
+      - title: Clémentine Brulé
+        subtitle: Developer Advocate
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+      - title: Gabriel Carbonnier
+        subtitle: Operations Manager
+        title_align: center
+        image: images/hilary-ouse.jpg
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: none
+  - type: grid_section
     title: Plus de résultats que toute autre cabinet de la région
     align: center
     grid_items:
@@ -286,37 +317,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Christophe Ruffel
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Elsa Barbaroux
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Clémentine Brulé
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Gabriel Carbonnier
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
