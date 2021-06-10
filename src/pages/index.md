@@ -16,7 +16,7 @@ sections:
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
     content: |+
-      #
+
 
       # Choisir le bon cabinet d'avocats ça compte.
 
