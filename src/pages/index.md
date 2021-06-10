@@ -17,11 +17,10 @@ sections:
     image: images/classic/feature-3.png
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
-  - content: |+
-      ## Nos domaines d'expertise
+  - content: |
+      ### Nos domaines d'expertise
 
       ***
-
     actions: []
     image_alt: lorem-ipsum
     media_position: top
