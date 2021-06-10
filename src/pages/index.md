@@ -16,6 +16,7 @@ sections:
     background_image_size: contain
     image: images/ab-banner.jpg
     background_image_opacity: 50
+    background_image: images/ab-banner.jpg
   - type: grid_section
     grid_items:
       - title: Asile et Immigration
