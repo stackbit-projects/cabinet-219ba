@@ -134,10 +134,7 @@ sections:
     type: hero_section
   - type: grid_section
     title: null
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: Christophe Ruffel
         subtitle: Co-Founder & CEO
