@@ -15,6 +15,7 @@ sections:
     background_image_position: right top
     background_image_repeat: no-repeat
     background_image_size: contain
+    image: images/logo-6.svg
   - type: grid_section
     grid_items:
       - title: Asile et Immigration
