@@ -116,6 +116,8 @@ sections:
     padding_top: none
   - content: |
       ###### Lorem ipsum
+
+      ***
     actions: []
     image_alt: lorem-ipsum
     media_position: top
