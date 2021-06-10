@@ -14,7 +14,7 @@ sections:
     background_image: images/about-2.jpg
     background_image_position: center center
     background_image_repeat: no-repeat
-    background_image_size: contain
+    background_image_size: cover
   - type: grid_section
     grid_items:
       - title: Asile et Immigration
