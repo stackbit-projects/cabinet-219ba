@@ -52,6 +52,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        title: Droit des étrangers
       - title: Droit pénal du travail
         title_align: left
         content: "Licenciement abusif, accident de\_travail, prud’homme, \_rappel de salaire, litige avec employeur, travail dissimulé, contrat de travail, retraite (...)\n"
