@@ -10,7 +10,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "À propos",
+                "label": "Le cabinet",
                 "url": "/features",
                 "style": "link"
             },
