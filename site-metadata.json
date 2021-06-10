@@ -38,7 +38,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Dites-nous ce qui s'est passé",
+                "label": "Contact",
                 "url": "/contact",
                 "style": "primary"
             }
