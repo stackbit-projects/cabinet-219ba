@@ -38,13 +38,13 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Demander une consultation",
+                "url": "/pricing",
                 "style": "primary"
             },
             {
-                "label": "Demander une consultation",
-                "url": "/pricing",
+                "label": "Contact",
+                "url": "/contact",
                 "style": "primary"
             }
         ],
