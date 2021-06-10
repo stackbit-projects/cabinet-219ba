@@ -18,7 +18,7 @@ sections:
     content: |
       # Choisir le bon cabinet d'avocats ça compte.
   - content: |
-      ### Nos domaines d'expertise
+
 
       ***
     actions: []
