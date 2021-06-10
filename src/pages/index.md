@@ -23,7 +23,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Section Item 1
+      - title: "Asile\_et\_Immigration"
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
