@@ -114,8 +114,7 @@ sections:
     align: center
     background_color: primary
     padding_top: none
-  - subtitle: i
-    content: |
+  - content: |
       ###### Lorem ipsum
     actions: []
     image_alt: lorem-ipsum
