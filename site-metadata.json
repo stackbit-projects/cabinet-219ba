@@ -49,7 +49,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Programmez une consultation",
+                "label": "Dites-nous ce qui s'est passé",
                 "url": "/contact",
                 "style": "primary"
             }
