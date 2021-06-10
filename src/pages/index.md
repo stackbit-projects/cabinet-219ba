@@ -13,7 +13,7 @@ sections:
     background_color: none
     background_image_position: right top
     background_image_repeat: no-repeat
-    background_image_size: contain
+    background_image_size: cover
     image: images/logo-6.svg
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
