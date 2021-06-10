@@ -348,6 +348,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_color: primary
+    enable_cards: true
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
