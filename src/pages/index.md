@@ -181,7 +181,7 @@ sections:
     background_color: none
     enable_cards: true
     padding_top: large
-    title: h
+    title: Team Sectionh
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
