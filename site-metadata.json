@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Avocats",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
                 "label": "Domaines d'expertise ",
                 "url": "/style-guide",
                 "style": "link"
@@ -33,6 +28,11 @@
             {
                 "label": "Ressources ",
                 "url": "/blog",
+                "style": "link"
+            },
+            {
+                "label": "Avocats",
+                "url": "/pricing",
                 "style": "link"
             }
         ],
