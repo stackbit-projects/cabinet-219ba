@@ -37,6 +37,9 @@ sections:
     grid_items:
       - title_align: left
         content: >
+          ### Droit des étrangers
+
+
           Naturalisation, rétention, obligation de quitter le territoire, refus
           de séjour, DCEM, demande de titre de séjour, visa (...)
         content_align: left
