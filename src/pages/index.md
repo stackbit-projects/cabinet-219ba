@@ -18,9 +18,7 @@ sections:
       # Choisir le bon cabinet d'avocats ça compte.
     image: images/ab-banner.jpg
   - content: |
-
-
-      ***
+      ###### NOTRE EXPERTISE
     actions: []
     image_alt: lorem-ipsum
     media_position: top
