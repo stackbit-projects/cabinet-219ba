@@ -21,6 +21,11 @@
                 "style": "link"
             },
             {
+                "label": "FAQ",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
                 "label": "Verdicts",
                 "url": "/about",
                 "style": "link"
@@ -28,11 +33,6 @@
             {
                 "label": "Ressources ",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "FAQ",
-                "url": "/style-guide",
                 "style": "link"
             }
         ],
