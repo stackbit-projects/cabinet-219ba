@@ -44,7 +44,7 @@
                 "style": "link"
             },
             {
-                "label": "demander une consultation",
+                "label": "Demander une consultation",
                 "url": "/pricing",
                 "style": "primary"
             }
