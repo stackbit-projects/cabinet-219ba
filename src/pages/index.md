@@ -19,7 +19,7 @@ sections:
     image: images/ab-banner.jpg
   - content: |
       ###### NOTRE EXPERTISE
-      
+
       ***
     actions: []
     image_alt: lorem-ipsum
@@ -316,7 +316,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: secondary
+    background_color: none
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
