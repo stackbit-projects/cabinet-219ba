@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Choisir le bon cabinet d'avocats est important.
     actions:
-      - label: Dites-nous ce qui s'est passé
+      - label: s
         url: /pricing
         style: primary
       - label: Learn More
