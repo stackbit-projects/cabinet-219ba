@@ -22,7 +22,6 @@ sections:
     padding_bottom: large
     background_color: none
   - type: grid_section
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
