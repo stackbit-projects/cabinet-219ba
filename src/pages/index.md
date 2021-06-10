@@ -146,7 +146,7 @@ sections:
       - image: images/logo-8.svg
         image_alt: Git logo
         image_align: center
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     background_color: none
