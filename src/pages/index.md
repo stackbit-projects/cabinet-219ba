@@ -5,7 +5,7 @@ sections:
     title: Choisir le bon cabinet d'avocats est important.
     actions: []
     image_alt: Hero section placeholder image
-    media_position: bottom
+    media_position: right
     media_width: fifty
     align: left
     padding_top: large
