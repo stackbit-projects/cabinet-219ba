@@ -9,7 +9,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     background_color: none
     background_image: images/about-2.jpg
     background_image_position: right top
