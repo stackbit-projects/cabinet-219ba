@@ -145,7 +145,6 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Plus de résultats que toute autre cabinet de la région
     align: center
     grid_items:
       - image_alt: Contentful logo
