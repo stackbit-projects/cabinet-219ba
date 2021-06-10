@@ -123,6 +123,10 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content: |
+          # **21**
+
+          *Millions €*
+
           **INDEMNISATION ACCIDENT AUTOMOBILE**
         content_align: center
       - image: images/logo-2.svg
