@@ -40,7 +40,7 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "Demander une consultation",
