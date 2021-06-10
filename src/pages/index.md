@@ -57,7 +57,7 @@ sections:
         title_align: left
         content: >
           Divorce, opposition à mariage, contentieux TCI & CNI, TASS, problèmes
-          locatifs (TI), droit de la famille, droit des contrats, DALO (...)
+          locatifs \[TI], droit de la famille, droit des contrats, DALO (...)
         content_align: left
         actions:
           - label: Learn More
