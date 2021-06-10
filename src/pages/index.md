@@ -17,8 +17,7 @@ sections:
     image: images/logo-6.svg
     background_image_opacity: 0
     background_image: images/ab-banner.jpg
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
