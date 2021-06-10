@@ -114,36 +114,6 @@ sections:
     align: center
     background_color: primary
     padding_top: none
-  - type: grid_section
-    title: null
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Christophe Ruffel
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Elsa Barbaroux
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Clémentine Brulé
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Gabriel Carbonnier
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
@@ -174,6 +144,36 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+  - type: grid_section
+    title: null
+    actions:
+      - label: Join the team
+        url: /style-guide
+        style: primary
+    grid_items:
+      - title: Christophe Ruffel
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: images/gustav-purpleson.jpg
+        image_position: top
+      - title: Elsa Barbaroux
+        subtitle: Software Engineer
+        title_align: center
+        image: images/dianne-ameter.jpg
+        image_position: top
+      - title: Clémentine Brulé
+        subtitle: Developer Advocate
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+      - title: Gabriel Carbonnier
+        subtitle: Operations Manager
+        title_align: center
+        image: images/hilary-ouse.jpg
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: none
   - type: grid_section
     align: center
     grid_items:
