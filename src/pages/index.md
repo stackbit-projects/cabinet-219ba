@@ -151,7 +151,7 @@ sections:
     grid_gap_vert: medium
     background_color: none
     enable_cards: true
-    padding_top: small
+    padding_top: large
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
