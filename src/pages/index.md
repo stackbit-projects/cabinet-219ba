@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: Choisir le bon cabinet d'avocats ça compte.
     actions: []
     image_alt: Hero section placeholder image
     media_position: right
