@@ -123,11 +123,9 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content: |
-          # **21**
+          # 21M €
 
-          *Millions €*
-
-          **INDEMNISATION ACCIDENT AUTOMOBILE**
+          **D'INDEMNISATION ACCIDENT AUTOMOBILE**
         content_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
