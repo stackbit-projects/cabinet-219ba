@@ -37,7 +37,7 @@ sections:
     grid_items:
       - title_align: left
         content: >
-          ### Droit des étrangers
+          ##### Droit des étrangers
 
 
           Naturalisation, rétention, obligation de quitter le territoire, refus
