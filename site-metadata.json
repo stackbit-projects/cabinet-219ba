@@ -11,7 +11,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "A ",
+                "label": "A propos de nous",
                 "url": "/features",
                 "style": "link"
             },
