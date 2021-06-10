@@ -75,7 +75,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: "Droit\_pénal"
+      - title: "Droit\_pénal général"
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
