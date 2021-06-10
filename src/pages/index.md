@@ -115,7 +115,7 @@ sections:
     background_color: primary
     padding_top: none
   - type: grid_section
-    title: Image Grid
+    title: Plus de résultats que toute autre cabinet de la région
     subtitle: Grid Section Example
     align: center
     grid_items:
