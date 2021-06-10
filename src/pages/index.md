@@ -181,6 +181,7 @@ sections:
     background_color: none
     enable_cards: true
     padding_top: large
+    title: h
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
