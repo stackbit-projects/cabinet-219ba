@@ -123,7 +123,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         content: |
-          # 21M €
+          # 21M€
 
           **D'INDEMNISATION ACCIDENT AUTOMOBILE**
         content_align: center
