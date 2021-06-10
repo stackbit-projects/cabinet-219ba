@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: contain
     image: images/logo-6.svg
-    background_image_opacity: 20
+    background_image_opacity: 50
   - type: grid_section
     grid_items:
       - title: Asile et Immigration
