@@ -83,7 +83,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 1
+      - title: "Droit\_pénal\_général"
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
