@@ -116,7 +116,6 @@ sections:
     padding_top: none
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
